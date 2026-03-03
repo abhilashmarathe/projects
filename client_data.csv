@@ -1,0 +1,101 @@
+client_id,client_name,industry,project_type,project_cost,start_date,payment_status,city,year_month,high_value_project
+1,Photography Hub,Photography,E-commerce,22392,2023-01-01,Pending,Pune,2023-01,0
+2,Tech Startup,Design,Branding,70680,2023-01-08,Paid,Pune,2023-01,0
+3,Fitness Studio,Design,E-commerce,65859,2023-01-15,Pending,Pune,2023-01,0
+4,Photography Hub,Technology,Portfolio,140657,2023-01-22,Pending,Pune,2023-01,1
+5,Local Cafe,Design,Branding,85467,2023-01-29,Pending,Kolhapur,2023-01,1
+6,Coaching Center,Design,Portfolio,113506,2023-02-05,Paid,Bangalore,2023-02,1
+7,Fitness Studio,Retail,Branding,124751,2023-02-12,Pending,Pune,2023-02,1
+8,Fitness Studio,Technology,Branding,133906,2023-02-19,Paid,Pune,2023-02,1
+9,Photography Hub,Retail,Business Website,40342,2023-02-26,Pending,Mumbai,2023-02,0
+10,Aishwarya Design,Photography,Portfolio,121308,2023-03-05,Paid,Pune,2023-03,1
+11,Local Cafe,Education,E-commerce,121081,2023-03-12,Pending,Mumbai,2023-03,1
+12,Photography Hub,Photography,E-commerce,104045,2023-03-19,Paid,Bangalore,2023-03,1
+13,Local Cafe,Education,Portfolio,49698,2023-03-26,Paid,Kolhapur,2023-03,0
+14,Local Cafe,Retail,E-commerce,125078,2023-04-02,Pending,Kolhapur,2023-04,1
+15,Coaching Center,Photography,E-commerce,95623,2023-04-09,Paid,Bangalore,2023-04,1
+16,Fitness Studio,Technology,Portfolio,37671,2023-04-16,Paid,Kolhapur,2023-04,0
+17,Tech Startup,Media,Branding,108384,2023-04-23,Pending,Bangalore,2023-04,1
+18,Coaching Center,Retail,Portfolio,101202,2023-04-30,Paid,Bangalore,2023-04,1
+19,Coaching Center,Education,Branding,66663,2023-05-07,Paid,Bangalore,2023-05,0
+20,Local Cafe,Fitness,E-commerce,30708,2023-05-14,Paid,Kolhapur,2023-05,0
+21,Clothing Brand,Education,E-commerce,106906,2023-05-21,Pending,Mumbai,2023-05,1
+22,Fitness Studio,Fitness,E-commerce,64811,2023-05-28,Paid,Bangalore,2023-05,0
+23,Aishwarya Design,Design,Business Website,148883,2023-06-04,Pending,Pune,2023-06,1
+24,Coaching Center,Photography,Branding,71250,2023-06-11,Paid,Kolhapur,2023-06,0
+25,Tech Startup,Fitness,Business Website,127547,2023-06-18,Paid,Bangalore,2023-06,1
+26,Clothing Brand,Education,Business Website,139249,2023-06-25,Paid,Bangalore,2023-06,1
+27,Clothing Brand,Design,Portfolio,49754,2023-07-02,Pending,Pune,2023-07,0
+28,Aishwarya Design,Media,Business Website,148983,2023-07-09,Paid,Mumbai,2023-07,1
+29,Coaching Center,Technology,Portfolio,99896,2023-07-16,Paid,Mumbai,2023-07,1
+30,Tech Startup,Technology,Portfolio,86295,2023-07-23,Pending,Mumbai,2023-07,1
+31,Fitness Studio,Technology,Business Website,115689,2023-07-30,Paid,Bangalore,2023-07,1
+32,KOP Studios,Fitness,Branding,26111,2023-08-06,Pending,Bangalore,2023-08,0
+33,Tech Startup,Media,Branding,52504,2023-08-13,Pending,Bangalore,2023-08,0
+34,Aishwarya Design,Fitness,Branding,147874,2023-08-20,Paid,Kolhapur,2023-08,1
+35,Clothing Brand,Photography,Branding,23155,2023-08-27,Pending,Pune,2023-08,0
+36,Fitness Studio,Fitness,Branding,54384,2023-09-03,Paid,Bangalore,2023-09,0
+37,Tech Startup,Media,Business Website,127561,2023-09-10,Pending,Pune,2023-09,1
+38,KOP Studios,Media,Business Website,62254,2023-09-17,Pending,Pune,2023-09,0
+39,KOP Studios,Photography,E-commerce,36918,2023-09-24,Paid,Mumbai,2023-09,0
+40,Local Cafe,Media,Branding,100981,2023-10-01,Pending,Kolhapur,2023-10,1
+41,Local Cafe,Education,Business Website,45306,2023-10-08,Pending,Bangalore,2023-10,0
+42,Photography Hub,Media,E-commerce,61843,2023-10-15,Pending,Mumbai,2023-10,0
+43,Aishwarya Design,Technology,Branding,135975,2023-10-22,Pending,Mumbai,2023-10,1
+44,Coaching Center,Education,Portfolio,111601,2023-10-29,Pending,Bangalore,2023-10,1
+45,Tech Startup,Education,E-commerce,122512,2023-11-05,Paid,Pune,2023-11,1
+46,Tech Startup,Photography,Business Website,126472,2023-11-12,Pending,Mumbai,2023-11,1
+47,Coaching Center,Food,Portfolio,148121,2023-11-19,Paid,Pune,2023-11,1
+48,Photography Hub,Food,Portfolio,118727,2023-11-26,Pending,Kolhapur,2023-11,1
+49,Clothing Brand,Media,Portfolio,127893,2023-12-03,Paid,Pune,2023-12,1
+50,Clothing Brand,Education,E-commerce,35932,2023-12-10,Paid,Kolhapur,2023-12,0
+51,Photography Hub,Food,Business Website,132796,2023-12-17,Pending,Pune,2023-12,1
+52,Clothing Brand,Food,Portfolio,44855,2023-12-24,Pending,Mumbai,2023-12,0
+53,Local Cafe,Media,Branding,22400,2023-12-31,Pending,Mumbai,2023-12,0
+54,Tech Startup,Food,Portfolio,132858,2024-01-07,Paid,Kolhapur,2024-01,1
+55,Photography Hub,Fitness,Portfolio,30151,2024-01-14,Pending,Bangalore,2024-01,0
+56,Tech Startup,Design,E-commerce,81690,2024-01-21,Paid,Kolhapur,2024-01,1
+57,Coaching Center,Photography,E-commerce,19499,2024-01-28,Paid,Kolhapur,2024-01,0
+58,KOP Studios,Design,Business Website,21295,2024-02-04,Paid,Pune,2024-02,0
+59,Local Cafe,Media,Branding,135885,2024-02-11,Pending,Pune,2024-02,1
+60,Fitness Studio,Technology,E-commerce,141071,2024-02-18,Pending,Kolhapur,2024-02,1
+61,Local Cafe,Photography,Portfolio,74040,2024-02-25,Paid,Mumbai,2024-02,0
+62,Photography Hub,Media,Business Website,27183,2024-03-03,Paid,Pune,2024-03,0
+63,Fitness Studio,Education,Portfolio,131336,2024-03-10,Pending,Bangalore,2024-03,1
+64,KOP Studios,Technology,Portfolio,47711,2024-03-17,Paid,Pune,2024-03,0
+65,Photography Hub,Design,E-commerce,20539,2024-03-24,Pending,Pune,2024-03,0
+66,Aishwarya Design,Media,Business Website,141063,2024-03-31,Paid,Bangalore,2024-03,1
+67,Tech Startup,Education,Branding,148629,2024-04-07,Pending,Kolhapur,2024-04,1
+68,KOP Studios,Photography,Branding,53360,2024-04-14,Paid,Bangalore,2024-04,0
+69,Tech Startup,Photography,E-commerce,148272,2024-04-21,Pending,Kolhapur,2024-04,1
+70,Clothing Brand,Retail,E-commerce,36357,2024-04-28,Paid,Kolhapur,2024-04,0
+71,Aishwarya Design,Education,Business Website,134121,2024-05-05,Pending,Kolhapur,2024-05,1
+72,Aishwarya Design,Fitness,Branding,92505,2024-05-12,Pending,Bangalore,2024-05,1
+73,KOP Studios,Food,Branding,17869,2024-05-19,Paid,Kolhapur,2024-05,0
+74,Aishwarya Design,Technology,Branding,65108,2024-05-26,Paid,Mumbai,2024-05,0
+75,Fitness Studio,Education,Portfolio,127296,2024-06-02,Pending,Bangalore,2024-06,1
+76,Aishwarya Design,Retail,Branding,109179,2024-06-09,Paid,Mumbai,2024-06,1
+77,Tech Startup,Food,Portfolio,105272,2024-06-16,Pending,Kolhapur,2024-06,1
+78,Tech Startup,Food,Business Website,53467,2024-06-23,Paid,Pune,2024-06,0
+79,Photography Hub,Media,Portfolio,38328,2024-06-30,Pending,Kolhapur,2024-06,0
+80,Tech Startup,Food,Business Website,106412,2024-07-07,Pending,Mumbai,2024-07,1
+81,Photography Hub,Fitness,Branding,73871,2024-07-14,Pending,Mumbai,2024-07,0
+82,Tech Startup,Photography,Branding,143391,2024-07-21,Pending,Bangalore,2024-07,1
+83,Fitness Studio,Retail,Business Website,101416,2024-07-28,Pending,Pune,2024-07,1
+84,Coaching Center,Food,E-commerce,85271,2024-08-04,Pending,Bangalore,2024-08,1
+85,Photography Hub,Media,Business Website,59064,2024-08-11,Paid,Mumbai,2024-08,0
+86,Local Cafe,Fitness,E-commerce,122450,2024-08-18,Paid,Kolhapur,2024-08,1
+87,Clothing Brand,Design,Portfolio,34830,2024-08-25,Paid,Pune,2024-08,0
+88,KOP Studios,Photography,Portfolio,131381,2024-09-01,Pending,Kolhapur,2024-09,1
+89,Tech Startup,Photography,Portfolio,62333,2024-09-08,Pending,Kolhapur,2024-09,0
+90,Aishwarya Design,Retail,Branding,149508,2024-09-15,Pending,Pune,2024-09,1
+91,Coaching Center,Photography,Portfolio,91213,2024-09-22,Pending,Bangalore,2024-09,1
+92,Tech Startup,Food,E-commerce,45746,2024-09-29,Paid,Kolhapur,2024-09,0
+93,Aishwarya Design,Media,Portfolio,64377,2024-10-06,Paid,Mumbai,2024-10,0
+94,Clothing Brand,Photography,Business Website,69045,2024-10-13,Pending,Kolhapur,2024-10,0
+95,Clothing Brand,Photography,Business Website,112888,2024-10-20,Paid,Pune,2024-10,1
+96,Clothing Brand,Design,Branding,122455,2024-10-27,Paid,Pune,2024-10,1
+97,Aishwarya Design,Design,Business Website,108179,2024-11-03,Pending,Pune,2024-11,1
+98,Tech Startup,Technology,E-commerce,60714,2024-11-10,Paid,Bangalore,2024-11,0
+99,Clothing Brand,Fitness,Portfolio,117946,2024-11-17,Pending,Kolhapur,2024-11,1
+100,Fitness Studio,Food,Branding,124616,2024-11-24,Paid,Bangalore,2024-11,1
